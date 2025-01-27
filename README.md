@@ -2,6 +2,8 @@
 
 Preprint: https://www.medrxiv.org/content/10.1101/2024.03.05.24303772v1
 
+Now published in _Nature_: https://www.nature.com/articles/s41586-024-08217-y
+
 This repository contains code to perform the analyses for this project.
 
 
